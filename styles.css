@@ -82,6 +82,11 @@ body {
   .download-btn:hover {
     background-color: #0056b3;
   }
+  .row{
+    display: flex;
+    justify-content: space-between;
+  }
+  
   
   /* Animation Styles */
   .fade-in {
@@ -107,8 +112,3 @@ body {
       opacity: 1;
     }
   }
-  .row{
-    display: flex;
-    justify-content: space-between;
-  }
-  
